@@ -1,5 +1,5 @@
 -- Deleiverable 1
--- Create a new table called retirement titles table
+-- Step 1: Create a new table called retirement titles table.
 SELECT e.emp_no,
 	e.first_name,
 	e.last_name,
@@ -15,7 +15,7 @@ ORDER BY e.emp_no;
 
 SELECT * FROM retirement_titles
 
--- Remove Duplicate rows and create unique titles table
+-- Step 2: Remove Duplicate rows and create unique titles table.
 SELECT DISTINCT ON (emp_no) emp_no,
 	first_name,
 	last_name,
@@ -26,7 +26,7 @@ ORDER BY emp_no, to_date DESC;
 
 SELECT * FROM unique_titles
 
--- Additon of all retiring employees using Count fucntion into new retiring titles table 
+-- Step 3: Count of all retiring employees using into new retiring titles table.
 SELECT COUNT(title), title
 INTO retiring_titles
 FROM unique_titles
