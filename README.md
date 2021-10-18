@@ -18,7 +18,7 @@ The managers at Pewlett Hackard, a large corporation would like to make assumpti
 - There is a clear and obvious cause for concern at Pewlett Hackard. An astounding number of senior engineers and engineers are reaching the end of their careers and will be retiring. from the total employees eligible for retirement, 1761 Assistant Engineers, 12243 Engineers and a massive 29419 Senior Engineers make a large majority of employees on the brink of retirement, almost 45,397 engineers could leave Pewlett Hackard! Which means they must start looking at filling these roles or promoting people from the company already, even senior staff need to be replaced from within. 
 - The table above shows the serious level of problem at this company, of the 90 thousand employees at Pewlett Hackard, the total employees of retirement age are 58,000, divided the total it comes to almost 65% of the workforce.
 
-### - Identify employees who are eligible to participate in a mentorship program: Attached is a screenshot of the breakdown per title of the number of employees eligible for the mentorship program at Pewlett Hackard. A few conclusions can be made and are listed below.
+### Identify employees who are eligible to participate in a mentorship program: Attached is a screenshot of the breakdown per title of the number of employees eligible for the mentorship program at Pewlett Hackard. A few conclusions can be made and are listed below.
 
 ![Mentorship Elgibility](https://user-images.githubusercontent.com/88692025/137665600-afddc08a-47a3-49cc-8d65-a13938b51a0d.PNG)
 
